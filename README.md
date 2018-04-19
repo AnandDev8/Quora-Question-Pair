@@ -1,4 +1,4 @@
 Quora Question pair problem
-test.py-Code 
-Quora-Input file
-Quora_output-output file
+1. test.py-Code 
+2. Quora-Input file
+3. Quora_output-output file
